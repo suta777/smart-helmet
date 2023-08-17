@@ -1,3 +1,7 @@
+'''
+    딥소트
+'''
+
 import os
 import random
 import cv2
