@@ -1,3 +1,4 @@
-deep_sort_realtime
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+deep-sort-realtime
 ultralytics
 opencv-python
